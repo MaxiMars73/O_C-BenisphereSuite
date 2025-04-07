@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "o_c_REV",
+			"path": "../../O_C-BenisphereSuite-phazerville/software/o_c_REV"
+		},
+		{
+			"name": "software",
+			"path": "."
+		}
+	],
+	"settings": {
+		"lldb-dap.executable-path": "/usr/bin/lldb"
+	}
+}
